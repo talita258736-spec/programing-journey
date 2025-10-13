@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\obj\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\obj\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\bin\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.exe.config
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\bin\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.exe
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\bin\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.pdb
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\obj\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.exe
+C:\Users\Zyrex\Documents\yunita pplg 1\LATIHAN2_talitazakiyatulm_XPPLG1\LATIHAN2_talitazakiyatulm_XPPLG1\obj\Debug\LATIHAN2_talitazakiyatulm_XPPLG1.pdb
