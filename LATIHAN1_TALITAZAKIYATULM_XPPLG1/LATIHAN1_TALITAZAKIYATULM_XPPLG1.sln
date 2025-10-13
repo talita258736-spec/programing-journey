@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LATIHAN1_TALITAZAKIYATULM_XPPLG1", "LATIHAN1_TALITAZAKIYATULM_XPPLG1\LATIHAN1_TALITAZAKIYATULM_XPPLG1.csproj", "{3A17945F-6400-466F-B76E-1CE9F135EAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A17945F-6400-466F-B76E-1CE9F135EAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A17945F-6400-466F-B76E-1CE9F135EAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A17945F-6400-466F-B76E-1CE9F135EAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A17945F-6400-466F-B76E-1CE9F135EAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D0DA5B-6B63-473E-BE24-04BD11E4B282}
+	EndGlobalSection
+EndGlobal
