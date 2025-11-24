@@ -1,0 +1,7 @@
+C:\New folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\New folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\New folder\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\New folder\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\New folder\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\New folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\New folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
